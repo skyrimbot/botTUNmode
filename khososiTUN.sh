@@ -718,8 +718,8 @@ display_menu() {
 # Print the header with colors
 echo -e "   ${CYAN}|---------------------------- ---------|"
 echo -e "   |            ${WHITE}Khososi TUN    ${CYAN}   |"
-echo -e "   |       ${WHITE}baraye estefade ALI ${CYAN}   |"
 echo -e "   |       📶   $(check_core_status)   📶       |"
+echo -e "   |       ${WHITE}baraye estefade ALI ${CYAN}   |"
 echo -e "   |---------------------------------------------|"
 
     echo ''
